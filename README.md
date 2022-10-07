@@ -2,13 +2,11 @@
 
 ### <p align="center">Estou me especializando atualmente em desenvolvimento Front-end e UX Design.</p>
 
-***
 
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniCode2&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniCode2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-***
 
 <br>
 
@@ -18,7 +16,6 @@
 
 <br>
 
-***
 
 <br>
 
@@ -27,8 +24,6 @@
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
 <br>
-
-***
 
 <br>
 
