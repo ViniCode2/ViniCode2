@@ -1,6 +1,6 @@
-# <center>Olá 👋, me chamo Vinicius Gomes</center>
+# <p align="center">Olá 👋, me chamo Vinicius Gomes</p>
 
-### <center>Estou me especializando atualmente em desenvolvimento Front-end e UX Design.</center>
+### <p align="center">Estou me especializando atualmente em desenvolvimento Front-end e UX Design.</p>
 
 ***
 
@@ -32,16 +32,17 @@
 
 <br>
 
-## <center>**Redes-Sociais**</center>
+## <p align="center">**Redes-Sociais**</p>
 
-<center><a href="https://www.instagram.com/_manovini_/?hl=pt-br"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<p align="center"><a href="https://www.instagram.com/_manovini_/?hl=pt-br"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:vini.irinel0012@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></center>
+<a href="mailto:vini.irinel0012@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></p>
 
 <br>
 
-### <h3 align="center">**👨‍💻Portfólio**</h3>
-#### <h3 align="center">_Link-Portfólio_</h3>
+### <p align="center">**👨‍💻Portfólio**</p>
+#### <p align="center">_Link-Portfólio_</p>
+
 
 
 
